@@ -1,0 +1,3 @@
+Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
+CompletableFuture was introduced in Java 8 to handle asynchronous programming in a more functional way.
+Concurrency in Java is a complex topic that includes threads, executors, and non-blocking APIs like CompletableFuture.
